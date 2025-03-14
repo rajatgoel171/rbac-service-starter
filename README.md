@@ -50,3 +50,8 @@ curl -H "Authorization: Bearer viewer-token" http://localhost:3000/users
 
 - 2025-01-01: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
 - Kept the README as the single source of status updates for this repository.
+
+## Update 13
+
+- 2025-03-14: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
+- Kept the README as the single source of status updates for this repository.
