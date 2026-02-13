@@ -41,7 +41,7 @@ curl -H "Authorization: Bearer viewer-token" http://localhost:3000/users
 
 
 
-## Progress Note 5
+## Progress Note 6
 
-- 2026-02-01: documented service readiness, implementation progress, and release hygiene for rbac-service-starter.
+- 2026-02-13: documented service readiness, implementation progress, and release hygiene for rbac-service-starter.
 - Captured validation notes for observability, operational checks, and handoff readiness.
