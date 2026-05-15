@@ -1,0 +1,13 @@
+{
+  "name": "rbac-service-starter",
+  "version": "1.0.0",
+  "description": "Dependency-free RBAC API starter using Node's HTTP server.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
